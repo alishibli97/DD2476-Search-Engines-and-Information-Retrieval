@@ -1,0 +1,59 @@
+mathematics graduate education
+1 Student_Organizations.f 0
+1 Mechanical_and_Aeronautical_Engineering.f 1
+1 University_Departments.f 2
+1 Elaine_Kasimatis.f 1
+1 Candidate_Statements.f 0
+1 document_translated.f 0
+1 Graduate_Groups.f 3
+1 Evelyn_Silvia.f 2
+1 Linda_Katehi.f 1
+1 Private_Tutoring.f 0
+1 UCD_Honors_and_Prizes.f 0
+1 The_Mary_Jeanne_Gilhooly_Award.f 1
+1 Events_Calendars.f 0
+precision = 7/12 ~ 0.58
+recall = 7/100 ~ 0.07
+
+mathematics graduate course
+1 UC_Davis_English_Department.f 0
+1 PatrickDragon.f 1
+1 Quantitative_Biology_and_Bioinformatics.f 1
+1 Teaching_Assistants.f 1
+1 MattHh.f 0
+1 document_translated.f 0
+1 What_I_Wish_I_Knew...Before_Coming_to_UC_Davis_Entomology.f 1
+1 Fiber_and_Polymer_Science.f 0
+1 Economics.f 0
+1 BrandonBarrette.f 0
+1 ECE_Course_Reviews.f 1
+1 Private_Tutoring.f 1
+1 UCD_Honors_and_Prizes.f 0
+1 Statistics.f 3
+1 Computer_Science.f 1
+1 Trivia_Nights.f 0
+1 Mathematics.f 3
+1 Hydrology.f 0
+precision = 8/17 ~ 0.47
+recall = 8/100 ~ 0.08
+
+mathematics course
+1 Student_Organizations.f 0
+1 Mechanical_and_Aeronautical_Engineering.f 0
+1 University_Departments.f 3
+1 Society_for_Industrial_and_Applied_Mathematics.f 3
+1 Quantitative_Biology_and_Bioinformatics.f 1
+1 document_translated.f 0
+1 What_I_Wish_I_Knew...Before_Coming_to_UC_Davis_Entomology.f 1
+1 Graduate_Groups.f 2
+1 SonnyMohammadzadeh.f 1
+1 Economics.f 0
+1 BrandonBarrette.f 1
+1 ECE_Course_Reviews.f 1
+1 Private_Tutoring.f 0
+1 UCD_Honors_and_Prizes.f 0
+1 Computer_Science.f 1
+1 Mathematics.f 3
+precision = 10/15 ~ 0.667
+recall = 10/100 ~ 0.1
+
