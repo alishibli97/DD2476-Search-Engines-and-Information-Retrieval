@@ -1,0 +1,7 @@
+assignment1/data
+assignment1/index
+assignment1/pagerank/*.txt
+assignments23/pagerank/*.txt
+*.zip
+*.gz
+
